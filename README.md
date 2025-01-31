@@ -19,7 +19,11 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 ---
 
 ## 📸 Screenshot
-![QR Code Generator Preview](#) *(Add a screenshot of your project here)*
+![qr1](https://github.com/user-attachments/assets/0915d92a-bb4b-4d57-b9fe-33df99983cc7)
+
+![qr2](https://github.com/user-attachments/assets/7f633938-948a-4139-86d4-bc3f00031d05)
+
+![qr3](https://github.com/user-attachments/assets/d3a30d1a-9829-49cf-a362-5356465ea34e)
 
 ---
 
