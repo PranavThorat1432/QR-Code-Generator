@@ -14,7 +14,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 ---
 
 ## 🖥️ Live Demo
-[🔗 Click here to view the project](#) 
+[🔗 Click here to view the project](https://qr-code-generator-three-theta.vercel.app/) 
 
 ---
 
